@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gakusei/static/css/main.073c9b0a.css",
+    "main.js": "/gakusei/static/js/main.8cd11247.js",
+    "static/js/787.a0bf84f3.chunk.js": "/gakusei/static/js/787.a0bf84f3.chunk.js",
+    "static/media/logo.svg": "/gakusei/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gakusei/index.html",
+    "main.073c9b0a.css.map": "/gakusei/static/css/main.073c9b0a.css.map",
+    "main.8cd11247.js.map": "/gakusei/static/js/main.8cd11247.js.map",
+    "787.a0bf84f3.chunk.js.map": "/gakusei/static/js/787.a0bf84f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8cd11247.js"
+  ]
+}
