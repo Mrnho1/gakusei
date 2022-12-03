@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/gakusei/static/css/main.31d6cfe0.css",
-    "main.js": "/gakusei/static/js/main.f5b453a5.js",
+    "main.css": "/gakusei/static/css/main.c82e8ca6.css",
+    "main.js": "/gakusei/static/js/main.81186e94.js",
+    "static/media/ApenasOLogo.png": "/gakusei/static/media/ApenasOLogo.f9de773ba3fe17451b73.png",
     "index.html": "/gakusei/index.html",
-    "main.f5b453a5.js.map": "/gakusei/static/js/main.f5b453a5.js.map"
+    "main.c82e8ca6.css.map": "/gakusei/static/css/main.c82e8ca6.css.map",
+    "main.81186e94.js.map": "/gakusei/static/js/main.81186e94.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.f5b453a5.js"
+    "static/css/main.c82e8ca6.css",
+    "static/js/main.81186e94.js"
   ]
 }
